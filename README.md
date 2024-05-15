@@ -5,6 +5,7 @@ Film açıklamasındaki baş harf hariç tüm harfleri küçük harfe çeviriniz
 
 #2- 
 Film açıklaması içindeki ilk 50 karakteri alarak sonuna "..." ekleyiniz. (substr) 
+
 #3-
 Her bir film için url bilgisini film başlığına göre oluşturunuz.    
 #4- 
